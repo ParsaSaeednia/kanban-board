@@ -19,9 +19,7 @@ This project is a fully functional Kanban board that allows you to:
 ---
 
 ## 🚀 Live Demo
-
-Check out the live version here:  
-🔗 **[Kanban Board on Vercel]([https://vercel.com/parsa-saeednias-projects/v0-fully-featured-kanban-board](https://v0-fully-featured-kanban-board.vercel.app/))**
+🔗 **[Kanban Board on Vercel](https://v0-fully-featured-kanban-board.vercel.app)**
 
 ---
 
